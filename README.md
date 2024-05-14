@@ -1,3 +1,4 @@
+[![MasterHead](https://t4.ftcdn.net/jpg/03/96/98/33/360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66.jpg)
 <h1 align="center">Hi 👋, I'm Ramazan Fırat Akdağ</h1>
 <h3 align="center">A passionate Backend Engineer and DevOps enthusiast</h3>
 
@@ -21,4 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramazanakdag&show_icons=true&locale=en&layout=compact" alt="ramazanakdag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramazanakdag&show_icons=true&locale=en" alt="ramazanakdag" /></p>
-
