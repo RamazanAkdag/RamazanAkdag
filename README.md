@@ -1,6 +1,6 @@
 [![MasterHead](https://t4.ftcdn.net/jpg/03/96/98/33/360_F_396983381_AcuGFHQbNn7D9eercXFpOecN7d7B5F66.jpg)
 <h1 align="center">Hi 👋, I'm Ramazan Fırat Akdağ</h1>
-<h3 align="center">A passionate Backend Engineer and DevOps enthusiast</h3>
+<h3 align="center">A passionate Software Engineer and DevOps enthusiast</h3>
 
 - 🔭 I’m currently working on **Developing Spring enterprise applications**
 
