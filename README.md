@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ramazan Fırat Akdağ</h1>
 <h3 align="center">A passionate Software Engineer and DevOps enthusiast</h3>
 
-- 🔭 I’m currently working on **Developing Spring enterprise applications**
+- 🔭 I’m currently working on **DevOps Practices**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 📫 How to reach me **akdagramazan586@gmail.com**
 
