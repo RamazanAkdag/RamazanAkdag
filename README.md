@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **DevOps Practices**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Jenkins**
 
 - 📫 How to reach me **akdagramazan586@gmail.com**
 
